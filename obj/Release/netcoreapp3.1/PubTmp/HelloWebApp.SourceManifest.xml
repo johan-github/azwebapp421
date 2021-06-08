@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\Users\dev\AZ-204-APP\MyAzureSolution\HelloWebApp\obj\Release\netcoreapp3.1\PubTmp\Out\" />
+</sitemanifest>
